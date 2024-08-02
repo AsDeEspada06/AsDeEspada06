@@ -26,18 +26,4 @@
 
 - **Linguagens:** Python, C++
 - **Áreas de Interesse:** Automação, Robótica, Desenvolvimento de Software
-- **Ferramentas:** Git, VS Code, Arduino
-
----
-
-## Contribuição
-
-Sinta-se à vontade para contribuir com os meus projetos. Para isso, siga os passos abaixo:
-
-1. Faça um Fork do projeto
-2. Crie uma Branch para sua Feature (`git checkout -b feature/MinhaFeature`)
-3. Faça o Commit das suas alterações (`git commit -m 'Adiciona MinhaFeature'`)
-4. Faça um Push para a Branch (`git push origin feature/MinhaFeature`)
-5. Abra um Pull Request
-
----
+- **Ferramentas:** Git, VS Code,PyCharm, Arduino
