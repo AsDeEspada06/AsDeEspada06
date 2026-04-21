@@ -8,9 +8,9 @@
 
 ## Sobre Mim
 
-- **Idade:** 23 anos
+- **Idade:** 24 anos
 - **Profissão:** Professor de robótica na instituição de tecnologia Happy
-- **Educação:** Graduando de Engenharia de Controle de Automação no IFPA (5º semestre)
+- **Educação:** Graduando de Engenharia de Controle de Automação no IFPA (9º semestre)
 - **Ocupação:** Programador Autônomo
 
 ---
@@ -19,11 +19,12 @@
 
 <img align="center" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="center" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+<img align="center" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" style="padding-right:10px;" />
 
 ---
 
 ## Habilidades
 
-- **Linguagens:** Python, C++
+- **Linguagens:** Python, C++, HTML
 - **Áreas de Interesse:** Automação, Robótica, Desenvolvimento de Software
 - **Ferramentas:** Git, VS Code,PyCharm, Arduino
